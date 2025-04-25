@@ -1,14 +1,16 @@
 # CrimeCategoryPrediction
-ML Classification Project
+
 🔍 Crime Category Prediction
+
 🧠 Project Goal
+
 Leverage historical crime data to predict the category of crime associated with each incident. This project explores various features including incident location, time, victim demographics, and other key details to build robust predictive models.
 
 📊 Dataset Overview
-Welcome to the Crime Category Prediction Challenge!
+
 This dataset offers a rich landscape for data exploration and model development. Each record represents a reported crime, complete with contextual details that paint a story — from location and timing to suspect behavior and victim information.
 
-Your objective is to analyze these patterns and develop models capable of predicting the type of crime committed in each case.
+My objective is to analyze these patterns and develop models capable of predicting the type of crime committed in each case.
 
 📁 Data Files
 train.csv — Contains the training data, including the target variable crime_category and all feature columns.
@@ -20,6 +22,7 @@ sample_submission.csv — A template for formatting your predictions for submiss
 🧾 Feature Descriptions
 
 Column Name	Description
+
 Location	Street address where the crime took place.
 Cross_Street	Nearest cross street to the crime location.
 Latitude / Longitude	Geospatial coordinates of the incident.
